@@ -1,0 +1,9 @@
+{
+	"name": "kollaadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56ce640b-2397-4ca0-88c9-e4df3ad8e914",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
